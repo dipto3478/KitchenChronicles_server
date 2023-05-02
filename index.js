@@ -7,9 +7,9 @@ const chefData = require("./data/chefData.json");
 app.get("/", (req, res) => {
   res.send("server running..........");
 });
-app.get("/chefs", (req, res) => {
-  res.send(chefData);
-});
+// app.get("/chefs", (req, res) => {
+//   res.send(chefData);
+// });
 app.listen(port, () => {
   console.log(`server running on port ${port}`);
 });
