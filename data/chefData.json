@@ -1,50 +1,242 @@
 [
   {
-    "id": 1,
-    "chefPicture": "https://i.ibb.co/m0YSSW9/pexels-cottonbro-studio-3298687.jpg",
-    "chefName": "John Smith",
-    "yearsOfExperience": 10,
-    "numberOfRecipes": 50,
-    "likes": 1000
+    "chef": {
+      "id": 1,
+      "chefPicture": "https://i.ibb.co/m0YSSW9/pexels-cottonbro-studio-3298687.jpg",
+      "chefName": "Sunita Sharma",
+      "yearsOfExperience": 15,
+      "numRecipes": 35,
+      "likes": 1200,
+      "bio": "Sunita is a renowned chef from the northern region of India. She specializes in traditional Punjabi cuisine, and has won numerous awards for her culinary skills.",
+      "recipes": [
+        {
+          "name": "Butter Chicken",
+          "ingredients": ["chicken", "butter", "tomato sauce", "cream"],
+          "cookingMethod": "1. Marinate chicken in spices and yogurt. 2. Cook chicken in butter. 3. Add tomato sauce and cream. 4. Simmer until chicken is cooked through.",
+          "rating": 4.5
+        },
+        {
+          "name": "Palak Paneer",
+          "ingredients": ["spinach", "paneer", "onion", "garlic", "ginger"],
+          "cookingMethod": "1. Blanch spinach. 2. Blend spinach, onion, garlic, and ginger. 3. Cook spinach puree with paneer. 4. Serve with rice or naan.",
+          "rating": 4.2
+        },
+        {
+          "name": "Chole Bhature",
+          "ingredients": ["chickpeas", "flour", "spices"],
+          "cookingMethod": "1. Soak chickpeas overnight. 2. Cook chickpeas with spices. 3. Make dough with flour and water. 4. Fry dough in oil. 5. Serve with chole.",
+          "rating": 4.7
+        }
+      ]
+    }
   },
   {
-    "id": 2,
-    "chefPicture": "https://i.ibb.co/m0YSSW9/pexels-cottonbro-studio-3298687.jpg",
-    "chefName": "Mary Johnson",
-    "yearsOfExperience": 8,
-    "numberOfRecipes": 40,
-    "likes": 800
+    "chef": {
+      "id": 2,
+      "chefPicture": "https://i.ibb.co/m0YSSW9/pexels-cottonbro-studio-3298687.jpg",
+      "chefName": "Rajesh Patel",
+      "yearsOfExperience": 20,
+      "numRecipes": 45,
+      "likes": 1500,
+      "bio": "Rajesh is a well-known chef from Mumbai, with a passion for regional Indian cuisine. He has traveled extensively throughout India to learn about local ingredients and cooking techniques.",
+      "recipes": [
+        {
+          "name": "Masala Dosa",
+          "ingredients": ["rice", "urad dal", "potatoes", "onion", "spices"],
+          "cookingMethod": "1. Soak rice and urad dal overnight. 2. Blend and ferment batter. 3. Cook dosa on griddle. 4. Stuff with potato filling. 5. Serve with chutney and sambar.",
+          "rating": 4.8
+        },
+        {
+          "name": "Paneer Tikka",
+          "ingredients": ["paneer", "yogurt", "spices", "lemon juice"],
+          "cookingMethod": "1. Marinate paneer in yogurt and spices. 2. Skewer and grill paneer. 3. Brush with lemon juice. 4. Serve with chutney and salad.",
+          "rating": 4.6
+        },
+        {
+          "name": "Biryani",
+          "ingredients": ["rice", "chicken", "spices", "onion", "tomato"],
+          "cookingMethod": "1. Cook rice and chicken separately. 2. Layer rice and chicken with spices and onion. 3. Bake in oven. 4. Serve with raita and papad.",
+          "rating": 4.9
+        }
+      ]
+    }
   },
   {
-    "id": 3,
-    "chefPicture": "https://i.ibb.co/m0YSSW9/pexels-cottonbro-studio-3298687.jpg",
-    "chefName": "David Lee",
-    "yearsOfExperience": 12,
-    "numberOfRecipes": 60,
-    "likes": 1200
+    "chef": {
+      "id": 3,
+      "chefPicture": "https://i.ibb.co/m0YSSW9/pexels-cottonbro-studio-3298687.jpg",
+      "chefName": "Anjali Singh",
+      "yearsOfExperience": 12,
+      "numRecipes": 25,
+      "likes": 800,
+      "bio": "Anjali is a creative chef from the southern region of India, known for her innovative take on traditional dishes. She loves experimenting with different spices and flavors to create unique and delicious meals.",
+      "recipes": [
+        {
+          "name": "Idli Manchurian",
+          "ingredients": [
+            "idli",
+            "onion",
+            "capsicum",
+            "tomato",
+            "soy sauce",
+            "spices"
+          ],
+          "cookingMethod": "1. Cut idlis into small pieces. 2. Stir-fry with onion, capsicum, and tomato. 3. Add soy sauce and spices. 4. Serve hot.",
+          "rating": 4.3
+        },
+        {
+          "name": "Aloo Gobi Masala",
+          "ingredients": ["potato", "cauliflower", "onion", "tomato", "spices"],
+          "cookingMethod": "1. Fry onion and tomato. 2. Add potato and cauliflower. 3. Cook with spices. 4. Serve with rice or roti.",
+          "rating": 4.1
+        },
+        {
+          "name": "Rava Dosa",
+          "ingredients": ["semolina", "rice flour", "curd", "water", "spices"],
+          "cookingMethod": "1. Mix semolina, rice flour, and curd. 2. Add water and spices to make batter. 3. Cook dosa on griddle. 4. Serve hot with chutney.",
+          "rating": 4.5
+        }
+      ]
+    }
   },
   {
-    "id": 4,
-    "chefPicture": "https://i.ibb.co/m0YSSW9/pexels-cottonbro-studio-3298687.jpg",
-    "chefName": "Sarah Kim",
-    "yearsOfExperience": 5,
-    "numberOfRecipes": 30,
-    "likes": 500
+    "chef": {
+      "id": 4,
+      "chefPicture": "https://i.ibb.co/m0YSSW9/pexels-cottonbro-studio-3298687.jpg",
+      "chefName": "Priya Sharma",
+      "yearsOfExperience": 8,
+      "numRecipes": 20,
+      "likes": 500,
+      "bio": "Priya is a young and talented chef from Delhi, specializing in vegetarian and vegan cuisine. She is passionate about healthy and sustainable cooking, and loves to use local and seasonal ingredients.",
+      "recipes": [
+        {
+          "name": "Chana Masala",
+          "ingredients": [
+            "chickpeas",
+            "onion",
+            "tomato",
+            "ginger",
+            "garlic",
+            "spices"
+          ],
+          "cookingMethod": "1. Fry onion, ginger, and garlic. 2. Add tomato and spices. 3. Cook chickpeas with the mixture. 4. Serve with rice or naan.",
+          "rating": 4.2
+        },
+        {
+          "name": "Palak Paneer",
+          "ingredients": ["paneer", "spinach", "onion", "tomato", "spices"],
+          "cookingMethod": "1. Fry onion and tomato. 2. Add spinach and spices. 3. Add paneer and cook until done. 4. Serve hot with roti.",
+          "rating": 4.4
+        },
+        {
+          "name": "Masoor Dal",
+          "ingredients": [
+            "red lentils",
+            "onion",
+            "tomato",
+            "spices",
+            "coriander"
+          ],
+          "cookingMethod": "1. Fry onion and tomato. 2. Add red lentils and spices. 3. Cook until done. 4. Garnish with coriander and serve with rice.",
+          "rating": 4.1
+        }
+      ]
+    }
   },
   {
-    "id": 5,
-    "chefPicture": "https://i.ibb.co/m0YSSW9/pexels-cottonbro-studio-3298687.jpg",
-    "chefName": "Alex Chen",
-    "yearsOfExperience": 15,
-    "numberOfRecipes": 80,
-    "likes": 1500
+    "chef": {
+      "id": 5,
+      "chefPicture": "https://i.ibb.co/m0YSSW9/pexels-cottonbro-studio-3298687.jpg",
+      "chefName": "Rahul Sharma",
+      "yearsOfExperience": 15,
+      "numRecipes": 30,
+      "likes": 1000,
+      "bio": "Rahul is a renowned chef from Mumbai, with a passion for traditional recipes from all over India. He has worked in some of the best restaurants in the country, and is known for his expertise in regional cuisines.",
+      "recipes": [
+        {
+          "name": "Butter Chicken",
+          "ingredients": [
+            "chicken",
+            "onion",
+            "tomato",
+            "cream",
+            "butter",
+            "spices"
+          ],
+          "cookingMethod": "1. Marinate chicken in yogurt and spices. 2. Grill or bake until done. 3. Fry onion and tomato. 4. Add cream and butter. 5. Add chicken and cook until heated through. 6. Serve with naan or rice.",
+          "rating": 4.7
+        },
+        {
+          "name": "Biryani",
+          "ingredients": [
+            "basmati rice",
+            "chicken",
+            "spices",
+            "onion",
+            "tomato",
+            "yogurt"
+          ],
+          "cookingMethod": "1. Marinate chicken in yogurt and spices. 2. Fry onion and tomato. 3. Add chicken and cook until done. 4. Cook basmati rice separately. 5. Layer rice and chicken in a pot. 6. Bake until heated through. 7. Serve hot with raita.",
+          "rating": 4.6
+        },
+        {
+          "name": "Gulab Jamun",
+          "ingredients": [
+            "milk powder",
+            "flour",
+            "sugar",
+            "cardamom",
+            "rose water"
+          ],
+          "cookingMethod": "1. Mix milk powder and flour with water. 2. Make dough and shape into balls. 3. Fry in oil until golden brown. 4. Make syrup with sugar, cardamom, and rose water. 5. Soak balls in syrup. 6. Serve warm or cold.",
+          "rating": 4.3
+        }
+      ]
+    }
   },
   {
-    "id": 6,
-    "chefPicture": "https://i.ibb.co/m0YSSW9/pexels-cottonbro-studio-3298687.jpg",
-    "chefName": "Olivia Davis",
-    "yearsOfExperience": 3,
-    "numberOfRecipes": 20,
-    "likes": 300
+    "chef": {
+      "id": 6,
+      "chefPicture": "https://i.ibb.co/m0YSSW9/pexels-cottonbro-studio-3298687.jpg",
+      "chefName": "Priya Singh",
+      "yearsOfExperience": 10,
+      "numRecipes": 50,
+      "likes": 1500,
+      "bio": "Priya is a talented chef from New Delhi, with a love for experimenting with new flavors and techniques. She enjoys incorporating international ingredients and techniques into traditional Indian dishes.",
+      "recipes": [
+        {
+          "name": "Paneer Tikka Masala",
+          "ingredients": [
+            "paneer",
+            "yogurt",
+            "spices",
+            "onion",
+            "tomato",
+            "cream"
+          ],
+          "cookingMethod": "1. Marinate paneer in yogurt and spices. 2. Grill or bake until done. 3. Fry onion and tomato. 4. Add cream and spices. 5. Add paneer and cook until heated through. 6. Serve with naan or rice.",
+          "rating": 4.8
+        },
+        {
+          "name": "Chana Masala",
+          "ingredients": [
+            "chickpeas",
+            "onion",
+            "tomato",
+            "spices",
+            "lemon juice",
+            "cilantro"
+          ],
+          "cookingMethod": "1. Soak chickpeas overnight. 2. Boil until tender. 3. Fry onion and tomato. 4. Add spices and chickpeas. 5. Cook until heated through. 6. Add lemon juice and cilantro. 7. Serve with rice or bread.",
+          "rating": 4.5
+        },
+        {
+          "name": "Mango Lassi",
+          "ingredients": ["mango", "yogurt", "sugar", "cardamom", "rose water"],
+          "cookingMethod": "1. Blend mango, yogurt, sugar, cardamom, and rose water. 2. Add ice and blend again. 3. Serve cold with a sprinkle of cardamom powder.",
+          "rating": 4.2
+        }
+      ]
+    }
   }
 ]
