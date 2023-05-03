@@ -2,7 +2,7 @@
   {
     "chef": {
       "id": 1,
-      "chefPicture": "https://i.ibb.co/m0YSSW9/pexels-cottonbro-studio-3298687.jpg",
+      "chefPicture": "https://i.ibb.co/gjrHwSJ/pexels-shvets-production-7525002.jpg",
       "chefName": "Sunita Sharma",
       "yearsOfExperience": 15,
       "numRecipes": 35,
@@ -11,7 +11,7 @@
       "recipes": [
         {
           "r_id": 11,
-          "img": "https://i.ibb.co/P5qPgy8/raman-sqc-H2q7lkvo-unsplash.jpg",
+          "img": "https://i.ibb.co/3vr6LkF/pexels-lukas-616354.jpg",
           "name": "Butter Chicken",
           "ingredients": ["chicken", "butter", "tomato sauce", "cream"],
           "cookingMethod": "1. Marinate chicken in spices and yogurt. 2. Cook chicken in butter. 3. Add tomato sauce and cream. 4. Simmer until chicken is cooked through.",
@@ -19,7 +19,7 @@
         },
         {
           "r_id": 12,
-          "img": "https://i.ibb.co/P5qPgy8/raman-sqc-H2q7lkvo-unsplash.jpg",
+          "img": "https://i.ibb.co/LpKS5Vt/pexels-prabal-pratap-singh-9609835.jpg",
           "name": "Palak Paneer",
           "ingredients": ["spinach", "paneer", "onion", "garlic", "ginger"],
           "cookingMethod": "1. Blanch spinach. 2. Blend spinach, onion, garlic, and ginger. 3. Cook spinach puree with paneer. 4. Serve with rice or naan.",
@@ -39,7 +39,7 @@
   {
     "chef": {
       "id": 2,
-      "chefPicture": "https://i.ibb.co/m0YSSW9/pexels-cottonbro-studio-3298687.jpg",
+      "chefPicture": "https://i.ibb.co/CbrbW90/pexels-anna-tarazevich-6937442.jpg",
       "chefName": "Rajesh Patel",
       "yearsOfExperience": 20,
       "numRecipes": 45,
@@ -48,7 +48,7 @@
       "recipes": [
         {
           "r_id": 14,
-          "img": "https://i.ibb.co/P5qPgy8/raman-sqc-H2q7lkvo-unsplash.jpg",
+          "img": "https://i.ibb.co/vQ7ZBLD/pexels-saveurs-secretes-5560763.jpg",
           "name": "Masala Dosa",
           "ingredients": ["rice", "urad dal", "potatoes", "onion", "spices"],
           "cookingMethod": "1. Soak rice and urad dal overnight. 2. Blend and ferment batter. 3. Cook dosa on griddle. 4. Stuff with potato filling. 5. Serve with chutney and sambar.",
@@ -56,7 +56,7 @@
         },
         {
           "r_id": 15,
-          "img": "https://i.ibb.co/P5qPgy8/raman-sqc-H2q7lkvo-unsplash.jpg",
+          "img": "https://i.ibb.co/LpKS5Vt/pexels-prabal-pratap-singh-9609835.jpg",
           "name": "Paneer Tikka",
           "ingredients": ["paneer", "yogurt", "spices", "lemon juice"],
           "cookingMethod": "1. Marinate paneer in yogurt and spices. 2. Skewer and grill paneer. 3. Brush with lemon juice. 4. Serve with chutney and salad.",
@@ -64,7 +64,7 @@
         },
         {
           "r_id": 16,
-          "img": "https://i.ibb.co/P5qPgy8/raman-sqc-H2q7lkvo-unsplash.jpg",
+          "img": "https://i.ibb.co/vDygJ31/pexels-shameel-mukkath-14731635.jpg",
           "name": "Biryani",
           "ingredients": ["rice", "chicken", "spices", "onion", "tomato"],
           "cookingMethod": "1. Cook rice and chicken separately. 2. Layer rice and chicken with spices and onion. 3. Bake in oven. 4. Serve with raita and papad.",
@@ -76,7 +76,7 @@
   {
     "chef": {
       "id": 3,
-      "chefPicture": "https://i.ibb.co/m0YSSW9/pexels-cottonbro-studio-3298687.jpg",
+      "chefPicture": "https://i.ibb.co/W22Vtz7/pexels-andres-ayrton-6578899.jpg",
       "chefName": "Anjali Singh",
       "yearsOfExperience": 12,
       "numRecipes": 25,
@@ -85,7 +85,7 @@
       "recipes": [
         {
           "r_id": 17,
-          "img": "https://i.ibb.co/P5qPgy8/raman-sqc-H2q7lkvo-unsplash.jpg",
+          "img": "https://i.ibb.co/kXy5R38/pexels-roman-odintsov-5339079.jpg",
           "name": "Idli Manchurian",
           "ingredients": [
             "idli",
@@ -100,7 +100,7 @@
         },
         {
           "r_id": 18,
-          "img": "https://i.ibb.co/P5qPgy8/raman-sqc-H2q7lkvo-unsplash.jpg",
+          "img": "https://i.ibb.co/sJs2GpV/pexels-mikhail-nilov-6740849.jpg",
           "name": "Aloo Gobi Masala",
           "ingredients": ["potato", "cauliflower", "onion", "tomato", "spices"],
           "cookingMethod": "1. Fry onion and tomato. 2. Add potato and cauliflower. 3. Cook with spices. 4. Serve with rice or roti.",
@@ -108,7 +108,7 @@
         },
         {
           "r_id": 19,
-          "img": "https://i.ibb.co/P5qPgy8/raman-sqc-H2q7lkvo-unsplash.jpg",
+          "img": "https://i.ibb.co/vQ7ZBLD/pexels-saveurs-secretes-5560763.jpg",
           "name": "Rava Dosa",
           "ingredients": ["semolina", "rice flour", "curd", "water", "spices"],
           "cookingMethod": "1. Mix semolina, rice flour, and curd. 2. Add water and spices to make batter. 3. Cook dosa on griddle. 4. Serve hot with chutney.",
@@ -120,7 +120,7 @@
   {
     "chef": {
       "id": 4,
-      "chefPicture": "https://i.ibb.co/m0YSSW9/pexels-cottonbro-studio-3298687.jpg",
+      "chefPicture": "https://i.ibb.co/nPv9X8D/pexels-kampus-production-8629122.jpg",
       "chefName": "Priya Sharma",
       "yearsOfExperience": 8,
       "numRecipes": 20,
@@ -129,7 +129,7 @@
       "recipes": [
         {
           "r_id": 20,
-          "img": "https://i.ibb.co/P5qPgy8/raman-sqc-H2q7lkvo-unsplash.jpg",
+          "img": "https://i.ibb.co/wRm52T3/pexels-pranjall-kumar-8625813.jpg",
           "name": "Chana Masala",
           "ingredients": [
             "chickpeas",
@@ -144,7 +144,7 @@
         },
         {
           "r_id": 21,
-          "img": "https://i.ibb.co/P5qPgy8/raman-sqc-H2q7lkvo-unsplash.jpg",
+          "img": "https://i.ibb.co/yptBM2x/pexels-prabal-pratap-singh-9609842.jpg",
           "name": "Palak Paneer",
           "ingredients": ["paneer", "spinach", "onion", "tomato", "spices"],
           "cookingMethod": "1. Fry onion and tomato. 2. Add spinach and spices. 3. Add paneer and cook until done. 4. Serve hot with roti.",
@@ -152,7 +152,7 @@
         },
         {
           "r_id": 22,
-          "img": "https://i.ibb.co/P5qPgy8/raman-sqc-H2q7lkvo-unsplash.jpg",
+          "img": "https://i.ibb.co/TR2V935/pexels-dhiraj-jain-12737916.jpg",
           "name": "Masoor Dal",
           "ingredients": [
             "red lentils",
@@ -170,7 +170,7 @@
   {
     "chef": {
       "id": 5,
-      "chefPicture": "https://i.ibb.co/m0YSSW9/pexels-cottonbro-studio-3298687.jpg",
+      "chefPicture": "https://i.ibb.co/CKBB1dF/pexels-2102934.jpg",
       "chefName": "Rahul Sharma",
       "yearsOfExperience": 15,
       "numRecipes": 30,
@@ -179,7 +179,7 @@
       "recipes": [
         {
           "r_id": 23,
-          "img": "https://i.ibb.co/P5qPgy8/raman-sqc-H2q7lkvo-unsplash.jpg",
+          "img": "https://i.ibb.co/Vmy6s13/pexels-engin-akyurt-2673353.jpg",
           "name": "Butter Chicken",
           "ingredients": [
             "chicken",
@@ -194,7 +194,7 @@
         },
         {
           "r_id": 24,
-          "img": "https://i.ibb.co/P5qPgy8/raman-sqc-H2q7lkvo-unsplash.jpg",
+          "img": "https://i.ibb.co/vDygJ31/pexels-shameel-mukkath-14731635.jpg",
           "name": "Biryani",
           "ingredients": [
             "basmati rice",
@@ -209,7 +209,7 @@
         },
         {
           "r_id": 25,
-          "img": "https://i.ibb.co/P5qPgy8/raman-sqc-H2q7lkvo-unsplash.jpg",
+          "img": "https://i.ibb.co/y55D0B4/pexels-kailash-kumar-11887844.jpg",
           "name": "Gulab Jamun",
           "ingredients": [
             "milk powder",
@@ -227,7 +227,7 @@
   {
     "chef": {
       "id": 6,
-      "chefPicture": "https://i.ibb.co/m0YSSW9/pexels-cottonbro-studio-3298687.jpg",
+      "chefPicture": "https://i.ibb.co/JBNT2Ks/pexels-hicret-14811401.jpg",
       "chefName": "Priya Singh",
       "yearsOfExperience": 10,
       "numRecipes": 50,
@@ -236,7 +236,7 @@
       "recipes": [
         {
           "r_id": 26,
-          "img": "https://i.ibb.co/P5qPgy8/raman-sqc-H2q7lkvo-unsplash.jpg",
+          "img": "https://i.ibb.co/NWWqNB1/pexels-abhishek-mahajan-3928854.jpg",
           "name": "Paneer Tikka Masala",
           "ingredients": [
             "paneer",
@@ -251,7 +251,7 @@
         },
         {
           "r_id": 27,
-          "img": "https://i.ibb.co/P5qPgy8/raman-sqc-H2q7lkvo-unsplash.jpg",
+          "img": "https://i.ibb.co/JqLjw5h/pexels-muhammad-khawar-nazir-9287039.jpg",
           "name": "Chana Masala",
           "ingredients": [
             "chickpeas",
@@ -266,7 +266,7 @@
         },
         {
           "r_id": 28,
-          "img": "https://i.ibb.co/P5qPgy8/raman-sqc-H2q7lkvo-unsplash.jpg",
+          "img": "https://i.ibb.co/Gkjs5Gh/pexels-simplyart-14509267.jpg",
           "name": "Mango Lassi",
           "ingredients": ["mango", "yogurt", "sugar", "cardamom", "rose water"],
           "cookingMethod": "1. Blend mango, yogurt, sugar, cardamom, and rose water. 2. Add ice and blend again. 3. Serve cold with a sprinkle of cardamom powder.",
